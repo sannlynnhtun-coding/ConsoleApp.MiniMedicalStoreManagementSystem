@@ -159,5 +159,3 @@ while (!exit)
     }
 }
 ```
-
-This program demonstrates basic CRUD operations in a console application, utilizing a simple menu-driven interface to interact with the user.
